@@ -3,12 +3,12 @@ owner: nulluser456 # Your GitHub organization or username, where this repository
 repo: bumblebee_hunter # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Shadow Library Uptime Monitor 
+    url: https://open-slum.org/
+  - name: Compass
+    url: https://compassconsult.com
+  - name: Rapattoni
+    url: https://rapattoni.com
   - name: Test z-lib
     url: https://z-lib.fm
   - name: IPv6 test
