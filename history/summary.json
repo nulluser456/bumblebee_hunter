@@ -4,20 +4,18 @@
     "url": "https://compassconsult.com",
     "icon": "https://icons.duckduckgo.com/ip3/compassconsult.com.ico",
     "slug": "compass",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 2126,
-    "timeDay": 1705,
-    "timeWeek": 2126,
-    "timeMonth": 2126,
-    "timeYear": 2126,
-    "dailyMinutesDown": {
-      "2025-11-26": 10
-    }
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1878,
+    "timeDay": 1314,
+    "timeWeek": 1878,
+    "timeMonth": 1878,
+    "timeYear": 1878,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rapattoni",
