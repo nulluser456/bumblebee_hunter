@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/compassconsult.com.ico",
     "slug": "compass",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.64%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1675,
     "timeDay": 1153,
     "timeWeek": 1675,
     "timeMonth": 1675,
     "timeYear": 1675,
     "dailyMinutesDown": {
-      "2025-11-26": 33
+      "2025-11-26": 23
     }
   },
   {
