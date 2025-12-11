@@ -1,7 +1,7 @@
 url: https://mesh.bott.my
-status: up
-code: 200
-responseTime: 396
-lastUpdated: 2025-12-10T23:01:28.390Z
+status: down
+code: 502
+responseTime: 70
+lastUpdated: 2025-12-11T13:26:24.097Z
 startTime: 2025-12-07T11:18:49.207Z
 generator: Upptime <https://github.com/upptime/upptime>
