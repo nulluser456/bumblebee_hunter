@@ -6,12 +6,12 @@
     "slug": "compass",
     "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "94.72%",
+    "uptimeDay": "96.06%",
     "uptimeWeek": "97.45%",
     "uptimeMonth": "97.90%",
     "uptimeYear": "97.90%",
     "time": 1535,
-    "timeDay": 1455,
+    "timeDay": 1278,
     "timeWeek": 1480,
     "timeMonth": 1535,
     "timeYear": 1535,
@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesh.bott.my.ico",
     "slug": "meshcentral",
     "status": "down",
-    "uptime": "90.98%",
-    "uptimeDay": "59.48%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "90.98%",
+    "uptime": "89.66%",
+    "uptimeDay": "52.85%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "89.66%",
+    "uptimeYear": "89.66%",
     "time": 224,
     "timeDay": 69,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-11": 583
+      "2025-12-12": 45,
+      "2025-12-11": 634
     }
   }
 ]
